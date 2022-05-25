@@ -12,8 +12,6 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.FormatStyle;
 import java.util.Random;
 
-//import sun.net.www.http.HttpClient;
-
 public class GensonTest {
 
 	public static void main(String[] args) {
